@@ -1,0 +1,5 @@
+[["enbridge-site-1" :site/url "https://www.enbridge.com" 1 :add]
+ ["enbridge-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["enbridge-site-1" :site/http-status 200 1 :add]
+ ["enbridge-site-1" :site/title "Home - Enbridge Inc." 1 :add]
+ ["enbridge-site-1" :site/description "Enbridge is North America’s premier energy delivery company, operating four core businesses—liquids pipelines, natural gas pipelines, gas utilities and storage, and renewable power. As a diversified energy company, we are uniquely positioned to help accelerate the global energy transition, and we’re doing it in ways that are ethical, sustainable and socially responsible. We’re also advancing new low-carbon energy technologies—including renewable natural gas, and carbon capture and storage." 1 :add]]
